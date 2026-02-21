@@ -4,6 +4,14 @@
 
 A console-based banking system written in C++.
 This project allows you to:
+## 🖥️ System Overview
+Displaying the main dashboard and the formatted client database.
+![Main Menu and Client List](./BANK%201/screenshots/overview.png)
+
+## ⚙️ Data Operations (Update)
+The system ensures data integrity by searching for clients and asking for confirmation before any modification .
+![Update Operations](./BANK%201/screenshots/operations.png)
+
 
 - Add new clients
 - Delete clients
