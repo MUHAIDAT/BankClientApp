@@ -31,11 +31,11 @@ Compile:
 g++ main.cpp -o bank
 Run:
 ./bank
-## 📁 Screenshots
 
  ⚠️ Project Status: Under Development
 This project is currently in development.  
 More features and code improvements will be added soon.
 
+## 📁 Screenshots
 👉 Go to screenshots folder:
 https://github.com/MUHAIDAT/BankClientApp/tree/main/screenshots
